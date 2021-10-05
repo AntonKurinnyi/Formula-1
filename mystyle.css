@@ -1,0 +1,71 @@
+.body{
+    background-color: rgb(102, 202, 219);}
+.main{
+    background-color: red;
+    padding-left: 45% ;
+    border-radius: 10px;
+    margin: 15px;
+    height: 100px;
+}
+.text{
+    background-color: darkgrey;
+    margin: 15px;
+}
+.text2{
+    background-color: darkgrey;
+    margin: 15px;
+}
+
+.nav{
+    background-color:rgba(146, 128, 153, 0.89);
+    padding-left: 40%;
+    border-radius: 10px;
+    margin: 15px ;
+    
+    
+}
+#Latest{
+    color: cyan;
+    padding-left: 2px;
+}
+#Video{
+    color: rgb(4, 0, 255);
+padding-left: 40px;
+}
+
+#Drivers{
+    color: rgb(42, 77, 77);
+    padding-left: 40px;
+}
+#Teams{
+    color: rgb(0, 255, 115);
+    padding-left: 40px;
+}
+p.par1:first-letter {color: rgb(0, 255, 0); 
+    font-weight: bold;
+    background-color: rgb(34, 17, 112);
+    border-radius: 50%;
+}
+
+p.par2:first-letter {color: rgb(255, 0, 170); 
+        font-weight: bold;}
+    
+ a:hover { background-color: #c21e1e; 
+            color:#1f1515 }
+            
+
+.foot{
+    border-radius: 20px;
+    color: rgb(200, 217, 219);
+    position:fixed;
+
+    bottom: 5px;
+    background-color: rgb(100, 128, 0);
+    
+    width: 57%;
+    margin:15px;
+
+    padding-left: 40%;
+    padding-top: 15px;
+    
+}
